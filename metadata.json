@@ -1,0 +1,5 @@
+{
+  "name": "Flick HUB Key System",
+  "description": "A dark-themed, step-by-step key generation system for Lua scripts.",
+  "requestFramePermissions": []
+}
